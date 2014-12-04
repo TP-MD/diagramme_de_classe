@@ -1,2 +1,2 @@
-diagramme_de-_classe
+diagramme_de_classe
 ====================
